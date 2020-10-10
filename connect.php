@@ -2,6 +2,6 @@
 $server="localhost";
 $user="root";
 $pass="";
-$db="fed";
+$db="sac";
 $conn=mysqli_connect($server,$user,$pass,$db);
 ?>
